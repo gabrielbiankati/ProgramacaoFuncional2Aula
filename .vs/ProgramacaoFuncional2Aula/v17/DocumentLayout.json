@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|c:\\users\\alunos-cesul\\source\\repos\\programacaofuncional2aula\\programacaofuncional2aula\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E5445-2030-4934-A3FA-6D6B67573DE7}|ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula.csproj|solutionrelative:programacaofuncional2aula\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\NotificationService.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\NotificationService.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:57:32.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\Utilities.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\Utilities.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\Utilities.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:24:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\User.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\User.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\User.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:47:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskService.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\TaskService.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskService.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\TaskService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwD8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:20:10.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskList.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\TaskList.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskList.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\TaskList.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:36:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\TaskItem.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\TaskItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:28:05.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramacaoFuncional2Aula\\Program.cs",
+              "ToolTip": "C:\\Users\\alunos-cesul\\source\\repos\\ProgramacaoFuncional2Aula\\ProgramacaoFuncional2Aula\\Program.cs",
+              "RelativeToolTip": "ProgramacaoFuncional2Aula\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:24:23.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
