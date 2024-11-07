@@ -48,6 +48,8 @@ namespace ProgramacaoFuncional2Aula
                     newTasks[i] = updatedTask;
                 }
             }
+
+            return new TaskList(newTasks);
         }
     }
 }

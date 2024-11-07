@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramacaoFuncional2Aula")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d1aaab042d3b9309b25801c1094f4dfc6e85471")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramacaoFuncional2Aula")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramacaoFuncional2Aula")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

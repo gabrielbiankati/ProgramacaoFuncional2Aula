@@ -1,0 +1,15 @@
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.AssemblyInfoInputs.cache
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.AssemblyInfo.cs
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.csproj.CoreCompileInputs.cache
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.sourcelink.json
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\bin\Debug\net8.0\ProgramacaoFuncional2Aula.exe
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\bin\Debug\net8.0\ProgramacaoFuncional2Aula.deps.json
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\bin\Debug\net8.0\ProgramacaoFuncional2Aula.runtimeconfig.json
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\bin\Debug\net8.0\ProgramacaoFuncional2Aula.dll
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\bin\Debug\net8.0\ProgramacaoFuncional2Aula.pdb
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.dll
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\refint\ProgramacaoFuncional2Aula.dll
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.pdb
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ProgramacaoFuncional2Aula.genruntimeconfig.cache
+C:\Users\alunos-cesul\source\repos\ProgramacaoFuncional2Aula\ProgramacaoFuncional2Aula\obj\Debug\net8.0\ref\ProgramacaoFuncional2Aula.dll

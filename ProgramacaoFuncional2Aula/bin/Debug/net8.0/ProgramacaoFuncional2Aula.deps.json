@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProgramacaoFuncional2Aula/1.0.0": {
+        "runtime": {
+          "ProgramacaoFuncional2Aula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramacaoFuncional2Aula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

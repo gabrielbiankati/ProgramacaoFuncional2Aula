@@ -49,7 +49,32 @@ namespace ProgramacaoFuncional2Aula
             TaskService.ProcessTasksInParallel(pendingTasks, processAction);
 
             // **10. Composição função
+            // Primeira função: Obter as tarefas pendentes
+            //Segunda função: Processar as tarefas em paralelo
+            // O resultado é uma nova funcao que, dada uma TaskList
+            // Obtem as tarefas pendentes e as processa
 
+            var processPendingTasks = Utilities.Compose<TaskList, List<TaskItem>>(
+                TaskService.GetPendingTasks,
+                tasks => TaskService.ProcessTasksInParallel(tasks, processAction)
+                );
+
+            // ** 11 Usar funcao composta
+            processPendingTasks(user.TaskList); 
+
+            // ** 12 Uso de delegates para notificações
+            Func<User, string, string> notifyDelegate = NotificationService.Notify;
+
+            // ** 13 Geração da mensagem para notificação
+            // Utilizando o "delegate"
+            string notificationMessage = notifyDelegate(user, "Voce tem tarefas pendentes");
+
+            // ** 14 Realização do efeito colateral da funcao pura
+            Console.WriteLine(notificationMessage);
+
+            // ** 15 Finaliza
+            Console.WriteLine("Pressione qualquer tecla para sair");
+            Console.ReadLine();
         }
     }
 }
